@@ -1,6 +1,6 @@
-﻿create database QLBanThucAn05
+﻿create database QLBanThucAn03
 go
-use QLBanThucAn05
+use QLBanThucAn03
 go
 
 set dateformat dmy
